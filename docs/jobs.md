@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR NICOLAE G. CARANFIL, NR.61C, CLADIREA B. SPATIILE 1E-04 . 1E-07.1E-08 SI E1-08, ET.1 |
 | Website | [https://base.com](https://base.com) |
 | Careers | [https://apply.workable.com/base-com/](https://apply.workable.com/base-com/) |
-| Last Scraped | 2026-11-24 |
+| Last Scraped | 2026-11-25 |
 
 ## Current Job Listings (1)
 
-_Generated: 2026-11-24T16:58:31.499581+00:00_
+_Generated: 2026-11-25T16:48:33.790208+00:00_
 
 ### Business Development Manager
 
